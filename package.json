@@ -1,0 +1,10 @@
+{
+  "name": "testing-ganache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@terminal-packages/sdk": "^1.1.0",
+    "web3": "^1.2.4"
+  }
+}
